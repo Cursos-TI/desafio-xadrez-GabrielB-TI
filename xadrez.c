@@ -11,5 +11,12 @@ int main(){
       i++;
    }while (i < 5);
 
+   printf("\nMovimento da torre:\n");
+
+   for(i = 0; i < 5; i++){
+      printf("Direita\n");
+   }
+
+
    return 0;
 }
