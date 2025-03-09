@@ -17,6 +17,13 @@ int main(){
       printf("Direita\n");
    }
 
+   printf("\nMovimento da Rainha\n");
+   i = 0;
+   while (i < 8){
+      printf("Esquerda\n");
+      i++;
+   }
+
 
    return 0;
 }
